@@ -1,3 +1,3 @@
 Pet Project
 #
-url: https://babakov-danil.github.io/vueSneakersPage/
+url: [go](https://babakov-danil.github.io/vueSneakersPage){:target="_blank"}
